@@ -1,0 +1,2 @@
+# JavaStudy
+just for everybody
